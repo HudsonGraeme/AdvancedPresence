@@ -1,0 +1,2 @@
+# AdvancedPresence
+Discord RPC GUI
